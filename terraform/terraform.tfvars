@@ -1,3 +1,3 @@
 rgname   = "github-action-athena"
 location = "East US"
-sname    = "samarth"
+sname    = "samarth3112"
